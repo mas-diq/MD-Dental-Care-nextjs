@@ -25,7 +25,7 @@ export default function Index() {
                 MD Dental Care
               </h2>
               <h2 className="font-semibold text-4xl text-red-200">
-                Klinik Dokter Gigi Terpercaya di Tangerang.
+                Klinik Dokter Gigi Terpercaya di Tangerang
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-purple-400">
                 MD Dental Care adalah Klinik Dokter Gigi di
